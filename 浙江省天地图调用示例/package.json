@@ -1,0 +1,19 @@
+{
+  "name": "tianditu-zj-example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/mapbox-gl": "^3.4.0",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "@cgcs2000/mapbox-gl": "^2.3.0"
+  }
+}
